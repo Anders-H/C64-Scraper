@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hbom\\Desktop\\C64Scraper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D803C35B-AEFD-4460-B4EB-08CC8BBB09A2}|C64Scraper\\C64Scraper.csproj|c:\\users\\hbom\\desktop\\c64scraper\\c64scraper\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D803C35B-AEFD-4460-B4EB-08CC8BBB09A2}|C64Scraper\\C64Scraper.csproj|solutionrelative:c64scraper\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D803C35B-AEFD-4460-B4EB-08CC8BBB09A2}|C64Scraper\\C64Scraper.csproj|c:\\users\\hbom\\desktop\\c64scraper\\c64scraper\\gamelistparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D803C35B-AEFD-4460-B4EB-08CC8BBB09A2}|C64Scraper\\C64Scraper.csproj|solutionrelative:c64scraper\\gamelistparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D803C35B-AEFD-4460-B4EB-08CC8BBB09A2}|C64Scraper\\C64Scraper.csproj|c:\\users\\hbom\\desktop\\c64scraper\\c64scraper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D803C35B-AEFD-4460-B4EB-08CC8BBB09A2}|C64Scraper\\C64Scraper.csproj|solutionrelative:c64scraper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 401,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameListParser.cs",
+              "DocumentMoniker": "C:\\Users\\hbom\\Desktop\\C64Scraper\\C64Scraper\\GameListParser.cs",
+              "RelativeDocumentMoniker": "C64Scraper\\GameListParser.cs",
+              "ToolTip": "C:\\Users\\hbom\\Desktop\\C64Scraper\\C64Scraper\\GameListParser.cs",
+              "RelativeToolTip": "C64Scraper\\GameListParser.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAGwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-21T16:20:35.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1203,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\hbom\\Desktop\\C64Scraper\\C64Scraper\\Game.cs",
+              "RelativeDocumentMoniker": "C64Scraper\\Game.cs",
+              "ToolTip": "C:\\Users\\hbom\\Desktop\\C64Scraper\\C64Scraper\\Game.cs",
+              "RelativeToolTip": "C64Scraper\\Game.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T12:26:20.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hbom\\Desktop\\C64Scraper\\C64Scraper\\Program.cs",
+              "RelativeDocumentMoniker": "C64Scraper\\Program.cs",
+              "ToolTip": "C:\\Users\\hbom\\Desktop\\C64Scraper\\C64Scraper\\Program.cs",
+              "RelativeToolTip": "C64Scraper\\Program.cs",
+              "ViewState": "AQIAAAECAAAAAAAAAAAAABkCAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T14:04:58.901Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

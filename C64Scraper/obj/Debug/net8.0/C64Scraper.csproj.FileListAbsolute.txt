@@ -1,0 +1,14 @@
+C:\Users\hbom\Desktop\C64Scraper\C64Scraper\obj\Debug\net8.0\C64Scraper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hbom\Desktop\C64Scraper\C64Scraper\obj\Debug\net8.0\C64Scraper.AssemblyInfoInputs.cache
+C:\Users\hbom\Desktop\C64Scraper\C64Scraper\obj\Debug\net8.0\C64Scraper.AssemblyInfo.cs
+C:\Users\hbom\Desktop\C64Scraper\C64Scraper\obj\Debug\net8.0\C64Scraper.csproj.CoreCompileInputs.cache
+C:\Users\hbom\Desktop\C64Scraper\C64Scraper\bin\Debug\net8.0\C64Scraper.exe
+C:\Users\hbom\Desktop\C64Scraper\C64Scraper\bin\Debug\net8.0\C64Scraper.deps.json
+C:\Users\hbom\Desktop\C64Scraper\C64Scraper\bin\Debug\net8.0\C64Scraper.runtimeconfig.json
+C:\Users\hbom\Desktop\C64Scraper\C64Scraper\bin\Debug\net8.0\C64Scraper.dll
+C:\Users\hbom\Desktop\C64Scraper\C64Scraper\bin\Debug\net8.0\C64Scraper.pdb
+C:\Users\hbom\Desktop\C64Scraper\C64Scraper\obj\Debug\net8.0\C64Scraper.dll
+C:\Users\hbom\Desktop\C64Scraper\C64Scraper\obj\Debug\net8.0\refint\C64Scraper.dll
+C:\Users\hbom\Desktop\C64Scraper\C64Scraper\obj\Debug\net8.0\C64Scraper.pdb
+C:\Users\hbom\Desktop\C64Scraper\C64Scraper\obj\Debug\net8.0\C64Scraper.genruntimeconfig.cache
+C:\Users\hbom\Desktop\C64Scraper\C64Scraper\obj\Debug\net8.0\ref\C64Scraper.dll
